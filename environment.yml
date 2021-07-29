@@ -1,0 +1,15 @@
+name: szeged
+channels:
+  - defaults
+  - conda-forge
+  - lcvriend
+dependencies:
+  - python=3.8
+  - pandas=1.2
+  - scikit-learn=0.23.2
+  - sklearn-crfsuite=0.3.6
+  - jupyter
+  - jupyterlab
+  - ipykernel
+  - humannotator
+  - matplotlib=3.3
