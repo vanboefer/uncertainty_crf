@@ -7,7 +7,7 @@ The repo contains:
 - code for creating an adjusted token-level version of the [Szeged Uncertainty Corpus](https://rgai.inf.u-szeged.hu/node/160) (Szarvas et al. 2012<sup>1</sup>);
 - code for training and evaluating a CRF classifier, similar to the one trained by Szarvas et al. (2012).
 
-For details, please refer to the [wiki]().
+For details, please refer to the [wiki](https://github.com/vanboefer/uncertainty_crf/wiki).
 
 # Requirements
 It is recommended to create a conda environment using the [environment.yml](environment.yml) file. This is done by running the command:
