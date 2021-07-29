@@ -19,7 +19,7 @@ If you prefer to use ```pip```, you can find the names and versions of the requi
 
 # Usage
 ## Downloading the adjusted dataset
-The adjusted version of the [Szeged Uncertainty Corpus](https://rgai.inf.u-szeged.hu/node/160) can be downloaded from [here](https://1drv.ms/u/s!AvPkt_QxBozXk7BiazucDqZkVxLo6g?e=IisuM6) in a form of a pickled pandas DataFrame (```szeged_fixed.pkl```, 172MB). For more information, refer to the ['Data' wiki page]().
+The adjusted version of the [Szeged Uncertainty Corpus](https://rgai.inf.u-szeged.hu/node/160) can be downloaded from [here](https://1drv.ms/u/s!AvPkt_QxBozXk7BiazucDqZkVxLo6g?e=IisuM6) in a form of a pickled pandas DataFrame (```szeged_fixed.pkl```, 172MB). For more information, refer to the ['Data' wiki page](https://github.com/vanboefer/uncertainty_crf/wiki/data).
 
 ## Using the CRF model on your own data
 **NOTE**: My [HEDGEhog](https://github.com/vanboefer/hedgehog) repository contains a transformer-based model that performs the same multi-class classification task with ***better performance***. The CRF model in this repo was used as a baseline to evaluate HEDGEhog.
